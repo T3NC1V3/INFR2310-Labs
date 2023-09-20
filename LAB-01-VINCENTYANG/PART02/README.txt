@@ -1,5 +1,8 @@
 STUDENT NAME: Vincent Yang
-NOTES: N/A for PART02
+NOTES: To be honest, I kinda dropped the ball when animating the ease-in and out of the lamp jumping animation, but
+for the the lamp head tilt, it ended up extremely similar to the original. The timings were also on point to an extent.
+The biggest difference compared to the original would be the relative height of the jumps in my opinion.
+
 
 ATTESTATION:
 I, Vincent Yang, understand that I am bound by Ontario Tech’s Academic Integrity Policy

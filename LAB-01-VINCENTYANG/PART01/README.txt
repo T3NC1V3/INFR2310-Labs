@@ -1,5 +1,5 @@
 STUDENT NAME: Vincent Yang
-NOTES: Labeled the ACT Parts using Unity's coloured tags. (i.e. 1,A,B,C,2, etc.
+NOTES: Labeled the ACT Parts using Unity's coloured tags. (i.e. 1,A,B,C,2, etc.)
 
 ATTESTATION:
 I, Vincent Yang, understand that I am bound by Ontario Tech’s Academic Integrity Policy

@@ -1,5 +1,5 @@
 STUDENT NAME: Vincent Yang
-NOTES: Instead of goig with the vertical intepreation of the DK level, i arranged the level horizontally.
+NOTES: Instead of going with the vertical interpretion of the DK level, i arranged the level horizontally.
 
 ATTESTATION:
 I, Vincent Yang, understand that I am bound by Ontario Tech’s Academic Integrity Policy

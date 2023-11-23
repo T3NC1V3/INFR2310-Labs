@@ -1,5 +1,6 @@
 STUDENT NAME: Vincent Yang
 NOTES: IK Sample code for pole and target movement
+Anims are still pretty bad
 
 ATTESTATION:
 I, Vincent Yang, understand that I am bound by Ontario Tech’s Academic Integrity Policy
